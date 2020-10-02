@@ -7,7 +7,7 @@
   We can discuss it and assign the issue to you.
 - Make sure work isn't already being done on the issue.
 
-> Some contribution guidelines can vary project-to-project, so make sure to also read the `DEVELOPING.md` file in the project repository.
+Some contribution guidelines can vary project-to-project, so make sure to also read the `DEVELOPING.md` file in the project repository.
 
 ## While You Develop
 
@@ -21,12 +21,15 @@ git reset --soft [commit before your changes]
 git commit
 ```
 
-Make sure to document your code as you go, in both comments and external documentation (in `/dev-notes/`) as needed.
-`dev-notes` is especially important if you introduce a new json file format or to document some development process (like the command to crush the various images in the repository).
+Make sure to document your code as you go using comments, and external documentation as needed (markdown files in `/dev-notes/`).
+This is especially important if you introduce a new development process, internal API, or other major internal change.
 
-**Test your changes.**
+### Test your changes
+
 If your code doesn't work, it's not ready for merging.
 Make sure you not only test intended behaviour, but also edge cases and error cases.
+
+### Document User-Facing Changes
 
 If you're making a user-facing change, put a quick summary in `CHANGELOG.md` under the `[Unreleased]` heading.
 Follow the [Keep a Changelog][1] format.
@@ -34,6 +37,7 @@ Follow the [Keep a Changelog][1] format.
 ## When You're Ready to Merge
 
 1. When you have finished working on your contribution, create a pull request from your fork's branch into the master branch of the project.
+   Creation of draft pull requests is also allowed, but your contribution must be ready before changing the status of the PR to ready.
 1. Read through and complete the pull request template.
    If the checklist is not complete, your contribution will not be merged.
 1. Your pull request will get reviewed by at least one maintainer.

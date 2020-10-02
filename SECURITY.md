@@ -1,4 +1,5 @@
 # Reporting Security Issues in MiaowWare Projects
 
-Contact [security@miaow.io](mailto:security@miaow.io)
+If you find a security issue in a miaowware project, do not disclose it publicly.
+Instead, contact [security@miaow.io](mailto:security@miaow.io).
 
