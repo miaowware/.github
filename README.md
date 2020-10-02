@@ -1,3 +1,0 @@
-# .github
-
-Default community files
