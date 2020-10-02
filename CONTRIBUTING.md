@@ -7,7 +7,7 @@
   We can discuss it and assign the issue to you.
 - Make sure work isn't already being done on the issue.
 
-Some contribution guidelines can vary project-to-project, so make sure to also read the `DEVELOPING.md` file in the project repository.
+Some contribution guidelines can vary project-to-project, so make sure to also read the `DEVELOPING.md` file in the project repository if it exists.
 
 ## While You Develop
 
