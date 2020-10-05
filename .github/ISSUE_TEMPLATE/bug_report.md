@@ -12,7 +12,7 @@ assignees: ''
 
 ### Steps To Reproduce
 
-<!-- clear steps to reproduce bug -->
+<!-- Clear steps to reproduce bug -->
 
 ### Expected behavior
 
@@ -20,13 +20,11 @@ assignees: ''
 
 ### Environment
 
-<!-- include if relevant -->
+<!-- Include if relevant -->
 
-<!-- e.g. Linux, Docker -->
-- OS:
-<!-- e.g. 22 -->
-- Version:
-<!-- ... -->
+<!-- List all relevant software and versions
+     e.g. Linux 5.8, Docker 19.04 -->
+- 
 
 ### Additional context
 

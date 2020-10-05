@@ -3,7 +3,7 @@
 <!-- Describe the changes you made here. -->
 
 Fixes #{issue}
-<!-- if this fixes multiple issues, add more "Fixes #..." lines as needed -->
+<!-- If this fixes multiple issues, add more "Fixes #..." lines as needed -->
 
 ### Type of change
 
@@ -11,7 +11,7 @@ Fixes #{issue}
 
 - Bug fix <!-- non-breaking change which fixes an issue -->
 - New feature <!-- non-breaking change which adds functionality -->
-- refactor/code cleanup <!-- non-breaking change which does not add functionality or fix an issue -->
+- Refactor/code cleanup <!-- non-breaking change which does not add functionality or fix an issue -->
 - Breaking change <!-- fix or feature that would cause existing functionality to not work as expected -->
 - This change requires a documentation update
 
