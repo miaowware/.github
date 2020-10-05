@@ -1,29 +1,37 @@
 ---
 name: Bug report
-about: Report a bug to help us improve qrm
+about: Report a bug to help us improve this project
 title: ''
 labels: bug
 assignees: ''
-
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### Describe the Bug
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Run command '...' with input '...'
-2. See error
+<!-- A clear and concise description of what the bug is. -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Steps To Reproduce
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+<!-- clear steps to reproduce bug -->
 
-**System (include if related to running the bot):**
- - OS: [e.g. Linux, Docker]
- - Version: [e.g. 22]
+### Expected behavior
 
-**Additional context**
-Add any other context about the problem here.
+<!-- A clear and concise description of what you expected to happen. -->
+
+### Environment
+
+<!-- include if relevant -->
+
+<!-- e.g. Linux, Docker -->
+- OS:
+<!-- e.g. 22 -->
+- Version:
+<!-- ... -->
+
+### Additional context
+
+<!-- Add any other context about the problem here. -->
+
+### Screenshots, Logs, etc.
+
+<!-- If applicable, add screenshots, logs, etc to help explain your problem. -->
